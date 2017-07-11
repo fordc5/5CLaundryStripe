@@ -23,7 +23,6 @@ class contactViewController: UIViewController, MFMessageComposeViewControllerDel
         dismiss(animated: true, completion: nil)
     }
     
-    
     @IBAction func callButton(_ sender: UIButton) {
         callNumber(phoneNumber: "5033198512")
     }
