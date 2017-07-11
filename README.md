@@ -12,6 +12,8 @@ Alamofire
 Stripe
 CreditCardForm
 
+To replicate cd into the directory you cloned the project in. And then run: pod install
+
 ### To Do
 * Remove Tab bar upon segue from PayViewController to Home
 * Figure out payment for Pay as You go
