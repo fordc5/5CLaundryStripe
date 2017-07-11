@@ -518,11 +518,12 @@ Cg
                         <outlet property="creditCardForm" destination="hXv-fx-bX0" id="La0-ll-6tZ"/>
                         <outlet property="payLabel" destination="f90-n6-u78" id="kfU-dc-Ouz"/>
                         <outlet property="purchaseButton" destination="fQn-Wv-H4T" id="4rf-jq-d0H"/>
+                        <segue destination="BYZ-38-t0r" kind="show" identifier="purchaseComplete" id="tMc-5S-6wh"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Vxb-2C-8Fl" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="6236" y="-208"/>
+            <point key="canvasLocation" x="5063" y="-2143"/>
         </scene>
         <!--Deluxe View Controller-->
         <scene sceneID="Hnf-pk-3Cf">

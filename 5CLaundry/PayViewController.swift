@@ -97,6 +97,7 @@ class PayViewController: UIViewController , STPPaymentCardTextFieldDelegate{
             if let JSON = response.result.value {
                 print("JSON: \(JSON)")
             }
+            self.performSegue(withIdentifier: "purchaseComplete", sender: self)
         }
         
         
