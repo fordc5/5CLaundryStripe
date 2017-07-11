@@ -7,6 +7,14 @@ Collaborating on GitHub:
 https://stackoverflow.com/questions/5383609/using-git-with-an-existing-xcode-project/32498035#32498035
 (second response)
 
+### Pods Necessary
+Alamofire 
+Stripe
+CreditCardForm
+
+### To Do
+* Remove Tab bar upon segue from PayViewController to Home
+* Figure out payment for Pay as You go
 
 
 
